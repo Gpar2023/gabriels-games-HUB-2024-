@@ -1,0 +1,54 @@
+body {
+  background-color: #54a2c9;
+  color: white;
+  font-family: 'Product Sans';
+  text-align: center;
+}
+
+.button {
+  font-family: 'Product Sans';
+}
+
+#buttons {
+  font-family: 'Product Sans';
+}
+
+h2 {
+  font-size: 18px;
+}
+
+img {
+  border-radius: 100px;
+}
+
+a {
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue;
+}
+
+#buttons {
+  background-color: #3f5d57;
+  border: none;
+  color: white;
+  padding: 25px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 34px;
+  border-radius: 25px;
+}
+
+#buttons-gamer {
+  background-color: #98e7d8;
+  border: none;
+  color: grey;
+  padding: 25px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 34px;
+  border-radius: 25px;
+  font-family: 'Product Sans';
+}
