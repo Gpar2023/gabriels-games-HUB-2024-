@@ -1,0 +1,28 @@
+html {
+  color: whitesmoke;
+  text-align: center;
+  background-color: #120f0f;
+  font-family: "Product Sans", sans-serif;
+}
+
+#myiframe {
+  text-align: center;
+  border-radius: 35px;
+  border: 23px solid #1c1c1c;
+}
+
+#image-icon-top {
+  border-radius: 100px;
+}
+
+#buttons {
+  background-color: #3f5d57;
+  border: none;
+  color: white;
+  padding: 25px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 34px;
+  border-radius: 25px;
+}
